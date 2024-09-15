@@ -14,4 +14,3 @@ function fibonacci(num) {
   return num2;
 }
 module.exports = fibonacci;
-tfr-acwa-qhu
